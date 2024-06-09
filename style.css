@@ -191,7 +191,7 @@ svg :hover {
 section{
     background-color: #1d1c1c;
     width: 100%;
-    height: 200vh;
+   
 }
 .bio{
     padding-top: 200px;
@@ -464,7 +464,6 @@ footer svg{
     width: 16px;
 }
 .foo{
-    background-color: #1a1a1a;
-    height: 50vh;
+   background-color: black;
     width: 100%;
 }
